@@ -1,2 +1,0 @@
-The raw LTSpice files are stored in another repository.
-Link: https://github.com/ajaycc17/lt-spice
